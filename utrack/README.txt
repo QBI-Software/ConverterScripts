@@ -1,5 +1,6 @@
 This is a Python v3.4 script but should be fine in Python 2.7
-There are libraries that you will need in Python to run this (numpy and scipy) which can be a pain to install (https://www.scipy.org/install.html).  If you use Anaconda (or Miniconda), this will have everything you need (http://store.continuum.io/cshop/anaconda/).
+There are libraries that you will need in Python to run this (numpy and scipy) which can be a pain to install (https://www.scipy.org/install.html).  
+If you use Anaconda (or Miniconda), this will have everything you need pre-installed (http://store.continuum.io/cshop/anaconda/).
 1. Run the Spyder app, 
 2. then open the script (utrackconverter.py), 
 3. then select the green play/run button - in the popup window: under "command line options" enter " -i sampledata\channel_1.mat -o sampledata\out.csv"
