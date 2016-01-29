@@ -3,7 +3,8 @@ There are libraries that you will need in Python to run this (numpy and scipy) w
 If you use Anaconda (or Miniconda), this will have everything you need pre-installed (http://store.continuum.io/cshop/anaconda/).
 1. Run the Spyder app, 
 2. then open the script (utrackconverter.py), 
-3. then select the green play/run button - in the popup window: under "command line options" enter " -i sampledata\channel_1.mat -o sampledata\out.csv"
+3. then select the green play/run button - in the popup window: under "command line options" enter 
+"-i sampledata\channel_1.mat -o sampledata\out.csv"
 (You can use the up arrow key in the Console window to re-run)
 
 
